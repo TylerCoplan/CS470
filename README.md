@@ -13,6 +13,7 @@ This course has given me the skills to create a web application from local proto
 My biggest strength is that I love to solve problems. It bothers me when something does not work the way it should work and I get a bit obsessive over getting it right. I know that in a professional environment that this will require prioritization and balancing with the overall business needs, but the drive to solve problems helps me get the work done. I may not know the answer, but I am resourceful and I can break problems down to their root cause and figure out what needs to be done to solve them.
 
 <strong>Identify the types of roles you are prepared to assume in a new job.</strong>
+
 I am prepared to assume the role of an entry level developer. I do not have enough experience working in a professional system to understand how to develop them at this point. However, I can take the requirements and code a solution to meet the needs. I can test and debug as well. I am comfortable using Windows and Linux development tools and now I even have some experience with cloud development tools.
 
 ### Planning for Growth: Synthesize the knowledge you have gathered about cloud services.
