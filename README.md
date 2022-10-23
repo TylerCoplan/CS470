@@ -1,6 +1,6 @@
 # CS470 - Migrating a Web-Application to the Cloud
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OabwCjmzSMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Tyler Coplan's Cloud Migration Presentation](https://img.youtube.com/vi/OabwCjmzSMo/0.jpg)](https://www.youtube.com/watch?v=OabwCjmzSMo)
 
 ## Course Reflection
 ### Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
